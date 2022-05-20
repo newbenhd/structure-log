@@ -1,6 +1,6 @@
 {
   "name": "structure-log",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Logger for node project",
   "keywords": [
     "Log",
